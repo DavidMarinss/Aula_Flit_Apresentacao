@@ -3,3 +3,4 @@ idade: 16 anos
 
 Leandro acorda as 7h da manhã vai para aula particular fica na aula até as 11h.
 Depois volta para casa e almoça e vai para escola 12:30h e sai 18h e depois na parte da noite estuda frontEnd na flit.
+Em 4 meses ele vai estar voando aprendo frontEnd na flit.
